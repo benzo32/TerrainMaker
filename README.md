@@ -4,3 +4,6 @@ The TerrainMaker provides an editor window for Unity, enabling users to create c
 The tool also generates a Terrain object that conforms to user-defined dimensions (width and length). A specified number of trees, rocks, and grass are randomly placed on the created terrain. Placement of each object involves attempting to find a suitable position on the designated terrain until a valid location is found.
 
 Additionally, the code manages the saving and loading of object paths via EditorPrefs, allowing users to easily define and persistently use their own prefabs. This ensures that user-defined prefabs can be readily utilized and managed across sessions.
+
+https://github.com/benzo32/TerrainMaker/assets/64724263/3d8cbb45-632f-48f5-8fde-675483193fd2
+
